@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />	
+		<title>AndYouSay</title>
+		 <link rel="stylesheet" type="text/css" media="all" href="../css/style.css" />
+		
+		
+		</style>	
+	</head>
+		
+	<body>
+	<!-- HTML  -->
+		<header>
+			<div class="aysheader">				
+				<h1>Welcome To AndYouSay WebSite</h1>
+				<h3> Any Job Looks Like a Lion But Once You Get Up To Do It, It's Became A Cute Cat .... </h3>	
+			</div>
+		</header>
+		<aside>
+			<div class="aysaside">
+
+				<div class= "aysCorePresent">
+				Est un site ou les gens peuvent intervenir sur diferente topics ... avec le pseudonime de <strong> AndISay, AndYouSay, AndHeSays, AndSheSays, AndWeSay, AndTheySay</strong> and so on ...  
+				</div>
+				<div class= "aysCorePast">
+				Cette Série Comportera Une Deuxieme Série Contsernera l'historique des topic cite ci dessous <strong>AndISaid, AndYouSaid, AndHeSaid, AndSheSaid, AndWeSaid, AndTheySaid</strong> and so on... 
+				</div>
+			</div>
+		</aside>
+
+		<footer>
+		<h3>Contact US </h3>
+		<div class="footer_1" >
+			<ul>	
+				<li>  <a href="./" title="Compte GitHub">GitHub!!</a></li>
+				<li><a href="./" title="Compte Google +">Google+</a></li>
+				<li><a href="./" title="Compte Linked ">Linked</a> </li>
+			</ul>
+		</div>	
+		<h3> Forums </h3>
+		<div class="footer_2" >
+			<ol>	
+				
+				<tt>  Ce forum est distine a toutes personne participé a une discution bien particulire  </tt>
+				<dt><a href="./" title="Forum B"> </a></dt>
+				<tt> Ce forum est distiné aux développeurs de ce site...</tt>	
+				<dt><a href="./" title="Forum C "> </a> </dt>
+				<tt> Ce  forum concerne les concepteurs de demain l'innovation.... </tt>
+			</ol>
+		</div>		
+
+		</footer>
+	<!-- JavaScript -->
+	<script src= "../js/control.js">
+	
+	</script>
+	</body>
+</html>

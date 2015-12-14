@@ -1,0 +1,32 @@
+
+		body{
+		padding:2px;
+		border: 2px dashed black;
+		background-color: transparent;
+		}		
+		h1{
+		color:red;
+		}
+		h3{
+		color:blue;
+		  }
+		header{
+		padding:2px;
+		border: solid 5px red;
+
+		}
+		aside{
+		padding:2px;	
+		border: solid 5px blue;
+  		
+		}
+		footer{
+		padding:2px;
+		border:solid 5px #000000;
+		}
+		.and_say{
+		color: green;
+		}
+		.and_said{
+		color: green;
+		}

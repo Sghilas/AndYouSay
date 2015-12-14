@@ -1,0 +1,61 @@
+#page_block{
+    width: 970px;
+    margin: auto;
+}
+
+		body{
+		padding:2px;
+		background-color: aliceblue;
+		}
+nav{
+    display: inline-block;
+    width: 740px;
+    text-align: right;
+}
+
+nav ul{
+    list-style-type: none;  
+}
+nav li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+
+/* Body */
+article, aside{
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+
+article{
+    width: 650;
+    margin-right: 15px;
+    
+    }
+
+
+aside{
+        position: relative;
+        width: 225;
+        font-size: 0.8em;
+        padding: 10px;
+        border: solid 2px black;
+        border-radius: 5px;
+    }
+		
+
+
+
+/* Foote,r   */
+footer ul, footer p {
+    font-size: 0.8em;
+}
+#footer_1, #footer_2,#footer_3, #footer_4{
+           
+            display: inline-block;
+             vertical-align: top;
+            width: 20%;
+}

@@ -1,0 +1,11 @@
+// Name Space...
+var andYouSay={
+	__init__: function ( ) {
+	alert("Run ...	");	
+	}
+};
+
+
+andYouSay1=NaN;
+andYouSay2=undefined;
+andYouSay3=null;
